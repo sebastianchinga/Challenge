@@ -1,0 +1,46 @@
+#first_col{
+    background-color: hsl(31, 77%, 52%)
+        
+}
+
+#second_col{
+    background-color: hsl(184, 100%, 22%)
+}
+
+#third_col{
+    background-color: hsl(179, 100%, 13%)
+}
+
+h1{
+    font-family: 'Big Shoulders Display', cursive;
+    color: white;
+}
+
+p{
+    font-family: 'Lexend Deca', sans-serif;
+    color: white;
+}
+
+#boton1{
+    font-family: 'Lexend Deca', sans-serif;
+    border-radius: 30px;
+    background-color: white;
+    color: hsl(31, 77%, 52%);
+}
+#boton2{
+    font-family: 'Lexend Deca', sans-serif;
+    border-radius: 30px;
+    background-color: white;
+    color:hsl(184, 100%, 22%);
+}
+#boton3{
+    font-family: 'Lexend Deca', sans-serif;
+    border-radius: 30px;
+    background-color: white;
+    color: hsl(179, 100%, 13%);
+}
+
+#principal{
+    border-radius: 20px;
+}
+
